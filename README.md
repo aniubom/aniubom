@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Ani 👋
 
-<!--
-**aniubom/aniubom** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eight years of translating what the business says into what the system actually needs, across mortgage insurance, federal compliance, and property management. Now I build the tools I wished I'd had on the job: checkers, QA utilities, and agents that take the tedious parts of BA work so the thinking gets the time.
 
-Here are some ideas to get you started:
+I'm not a traditional engineer. I design the logic, write the rules, and build with coding agents.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ⭐ Selected work
+
+A few things I've built or documented publicly.
+
+- 📊 [Insurance Analytics | AWS QuickSight](https://github.com/aniubom/BI-demo) — An insurance analytics case study using sample policy, customer, and payment data, with a dashboard walkthrough.
+
+---
+
+💼 [aubom.online](https://aubom.online) · 🔗 [LinkedIn](https://www.linkedin.com/in/aniemaubom/)
