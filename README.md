@@ -1,8 +1,14 @@
 # Hi, I'm Ani 👋
 
-Eight years of translating what the business says into what the system actually needs, across mortgage insurance, federal compliance, and property management. Now I build the tools I wished I'd had on the job: checkers, QA utilities, and agents that take the tedious parts of BA work so the thinking gets the time.
+Most software problems don't arrive as neatly written requirements.
 
-I'm not a traditional engineer. I design the logic, write the rules, and build with coding agents.
+They arrive as vague requests, broken workflows, and people who don't always agree on what needs fixing.
+
+I've spent eight years untangling those problems across multiple domains.
+
+Now I'm taking that experience in two directions.
+
+Exploring the craft of business analysis through Backlog Sushi, and building the tools I wish I'd had on the job.
 
 ---
 
