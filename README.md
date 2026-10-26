@@ -14,13 +14,15 @@ Exploring the craft of business analysis through Backlog Sushi, and building the
 
 ## 🧰 Tools
 
-- 🍣 [SliceCheck](https://github.com/aniubom/SliceCheck) — AI-assisted peer review for user stories and acceptance criteria, with explicit rules and a verification step.
+🍣 **[SliceCheck](https://github.com/aniubom/SliceCheck)**  
+AI-assisted peer review for user stories and acceptance criteria, with explicit rules and a verification step.
 
 ---
 
 ## 📊 Projects
 
-- [Insurance Analytics | AWS QuickSight](https://github.com/aniubom/BI-demo) — An insurance analytics case study using sample policy, customer, and payment data, with a dashboard walkthrough.
+**[Insurance Analytics | AWS QuickSight](https://github.com/aniubom/BI-demo)**  
+An insurance analytics case study using sample policy, customer, and payment data, with a dashboard walkthrough.
 
 ---
 
