@@ -8,7 +8,7 @@ I've spent eight years untangling those problems across multiple domains.
 
 Now I'm taking that experience in two directions.
 
-Exploring the craft of business analysis through Backlog Sushi, and building the tools I wish I'd had on the job.
+Exploring the craft of business analysis through [Backlog Sushi](https://backlogsushi.com), and building the tools I wish I'd had on the job.
 
 ---
 
