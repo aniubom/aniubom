@@ -26,4 +26,4 @@ An insurance analytics case study using sample policy, customer, and payment dat
 
 ---
 
-💼 [aubom.online](https://aubom.online) · 🍣 [Backlog Sushi](https://backlogsushi.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/aniemaubom/)
+🍣 [Backlog Sushi](https://backlogsushi.com) · 💼 [aubom.online](https://aubom.online) · 🔗 [LinkedIn](https://www.linkedin.com/in/aniemaubom/)
